@@ -11,7 +11,10 @@ Ferramentas, dependências e libs instaladas: **ReactJs**, **Axios**, **Typescri
 ---
 
 <div align="center" >
-  <img src="./docs/assets/BCSales Simulator.gif">
+  <div align="center" >
+  <img src="./docs/assets/tela1.png">
+   <img src="./docs/assets/tela2.png">
+</div>
 </div>
 
 Deploy:
